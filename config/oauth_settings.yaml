@@ -1,0 +1,8 @@
+app_id: CLIENT_ID
+app_secret: CLIENT_SECRET
+GRANT_TYPE: 'client_credentials'
+redirect: "http://localhost:8000/callback"
+scopes: ".default"
+authority: "https://login.microsoftonline.com/common"
+authorize_endpoint: "/oauth2/v2.0/authorize"
+token_endpoint: "/oauth2/v2.0/token"

@@ -1,0 +1,13 @@
+sites:
+  site_id: SITE_ID
+  web_id: WEB_ID
+  host_name: HOST_NAME
+lists:
+  id: ''
+  names:
+    - name: TDPCensus_1
+    - name: JobCodeMapping
+    - name: TDPIntern
+  columns:
+    - all
+
