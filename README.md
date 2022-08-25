@@ -1,6 +1,5 @@
-# Sharepoint Python API App
-
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](/CONTRIBUTING.md)
+Sharepoint Python API App
+===========================
 
 :wave: Welcome to the easy to use code base for consuming sharepoint. This code base should help you quickly get it up and running for consuming sharepoint from Azure.
 
